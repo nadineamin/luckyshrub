@@ -185,6 +185,7 @@ footer div {
 
 footer img {
     max-width: 90%;
+    vertical-align: middle;
 }
 
 footer p {
