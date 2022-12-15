@@ -42,7 +42,7 @@ nav ul {
 nav li {
     display:inline-flex;
     line-height: 2.5rem;
-    width: 15%;
+    width: 20%;
 }
 
 nav li a {
@@ -173,6 +173,10 @@ footer {
     margin: 1rem;
     color:rgb(246, 226, 200);
     gap: 2rem 1rem;
+    background-color: rgb(36, 119, 116);
+    border-radius: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
 }
 
 footer div {
